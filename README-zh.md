@@ -1,7 +1,5 @@
 # React-Vite-to-Android-APK-Template
 
----
-
 # 📱 将你的 React Vite 应用快速转换为 Android APK
 
 欢迎！🚀 本指南将带你一步步将 **React Vite 网页应用** 转换为可安装的 Android 应用（APK），无需 Android Studio 图形界面，只需命令行即可完成全部流程。

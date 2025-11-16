@@ -1,7 +1,5 @@
 # React-Vite-to-Android-APK-Template
 
----
-
 # 📱 Convert Your React Vite App into an Android App | [中文Readme](README-zh.md)
 
 Welcome! 🚀 This guide will walk you through converting your **React Vite web app** into a fully functional Android app using **Capacitor** and **Android SDK**. Whether you're a beginner or a pro, this guide has you covered! Let's turn your website into an app. 🎉
